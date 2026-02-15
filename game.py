@@ -1,3 +1,4 @@
+# esta en ingles porque mi teclado es 60% y es en ingles y me da pereza cambiarlo jijiji
 # The Whisperer = Tells you wrong information, doesn't, if you stay still for a long time it appears behind you.
 # The hall boy = A weird kid at the end of the hall, he doesn't atacks,  if you run to him,but if you stay still or walk slowly, you're cooked.
 # The Broken DAMA = if you stare at her she will atack you, just don't get lost in her beauty
@@ -270,3 +271,4 @@ hp , sanity = fifth_door(hp , sanity)
 print(name, ", Your life is,", hp , "and your cordure is" , sanity,)
 print (name, "--  yes you are a monster --")
     
+
